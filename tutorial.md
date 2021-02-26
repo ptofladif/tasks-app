@@ -1,3 +1,8 @@
+git init
+
+git remote add origin git@github.com:ptofladif/tasks-app.git
+
+
 #to run mogodb server
 C:\mongodb\bin\mongod.exe --dbpath=C:\mongodb\data
 
